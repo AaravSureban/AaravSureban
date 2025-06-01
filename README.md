@@ -19,10 +19,10 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaravSureban&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&width=300"
     alt="Top languages"
-    style="margin-right: 16px;"
+    style="margin-right: 10px;"
   />
   <img
-    src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&width=300"
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&width=200"
     alt="Random quote"
   />
 </p>
