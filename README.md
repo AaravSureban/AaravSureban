@@ -17,12 +17,13 @@
 # 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaravSureban&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&width=300"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaravSureban&theme=tokyonight&hide_border=true&layout=compact"
     alt="Top languages"
-    style="margin-right: 10px;"
+    style="vertical-align: top; margin-right: 16px;"
   />
   <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&width=200"
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
     alt="Random quote"
+    style="vertical-align: top;"
   />
 </p>
