@@ -22,7 +22,7 @@
     style="margin-right: 16px;"
   />
   <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&width=300"
+    src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&width=300"
     alt="Random quote"
   />
 </p>
