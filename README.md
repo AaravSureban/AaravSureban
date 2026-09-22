@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=E485FC&center=true&vCenter=true&width=1000&lines=I'm+a+robotics+engineer;I'm+a+perception+enthusiast;I'm+a+software+engineer)](https://git.io/typing-svg)
 
 # 💫 About Me:
-📖 Computer Engineering student at the University of Illinois Urbana-Champaign<br>🔭 Currently working on my personal portfolio website<br>🌱 Currently learning reinforcement learning<br> ⭐ Hobbies: movies, guitar, and rollercoasters
+📖 Computer Engineering student at the University of Illinois Urbana-Champaign<br>🔭 Currently working on my personal portfolio website<br>🌱 Currently learning reinforcement learning<br> ⭐ Hobbies: rating movies, playing guitar, and going on rollercoasters
 
 
 # 💻 Languages
